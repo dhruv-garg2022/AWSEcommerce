@@ -28,8 +28,8 @@ from flask import *
 app= Flask(__name__)
 app.secret_key='mayur-innovaccer'
 
-main_access_id = "AKIA32ULZ2HXATMGKYO7"
-main_secret_key = "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"
+main_access_id = ""
+main_secret_key = ""
 access_id=""
 secret_key=""
 region = "us-east-1"
